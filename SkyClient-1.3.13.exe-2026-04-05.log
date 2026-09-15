@@ -1,0 +1,4 @@
+Error loading Config from Repository errorAt:Globals.Settings = settings; 
+Odwołanie do obiektu nie zostało ustawione na wystąpienie obiektu.
+   w SkyblockClient.Utils.LoadSettings()
+
